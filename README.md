@@ -26,7 +26,7 @@ mysql -h <endpoint> -u <username> -p
 ## OUTPUT
 ### REG NUMBER: 212222110021
 ### NAME: LAVANYA M
- 
+![image](https://github.com/user-attachments/assets/c79820be-a647-4a88-8a8c-816e97b96690)
 ![image](https://github.com/user-attachments/assets/0bd978f3-0053-4be4-8988-94caea65cdd5)
 ![image](https://github.com/user-attachments/assets/4c1be862-b5b7-405d-9fa4-c0e41ab76092)
 ![image](https://github.com/user-attachments/assets/291bd9bb-57fa-4f14-bf3f-0fc5133ef92d)
